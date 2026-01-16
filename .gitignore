@@ -1,0 +1,14 @@
+/vendor
+/.env
+/.env.backup
+/.env.production
+/public/storage
+/storage/*.key
+/storage/framework/cache/data/*
+/storage/framework/sessions/*
+/storage/framework/views/*
+/storage/logs/*
+/node_modules
+/database/*.sqlite
+/database/*.sqlite-journal
+.phpunit.result.cache
