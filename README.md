@@ -409,6 +409,11 @@ Ce projet a été réalisé par :
 - **@nisso08** 
 - **@soukaynabenouicha** 
 ---
+**Backend** : Laravel 11 (PHP)  
+**Frontend** : Blade Templates + Vanilla CSS + JavaScript / TypeScript  
+**Database** : MySQL
+
+### Note: GitHub language statistics are based on file size distribution.
 
 **Version**: 1.0.0  
 **Last Updated**: December 2025  
