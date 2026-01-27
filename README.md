@@ -2,7 +2,7 @@
 
 A comprehensive web-based Data Center Infrastructure Management system built with Laravel 11, providing complete visibility and control over physical and cloud infrastructure resources.
 
-## 🚀 Features
+##  Features :
 
 ### Core Resource Management
 - **Resource Catalog**: Full CRUD operations for IT resources with categorization
@@ -65,7 +65,7 @@ A comprehensive web-based Data Center Infrastructure Management system built wit
 - **Secure Authentication**: Laravel Sanctum-based authentication
 - **Database Migrations**: Version-controlled schema management
 
-## 📋 Prerequisites
+##  Prerequisites :
 
 Before installing, ensure you have the following installed on your system:
 
@@ -75,7 +75,7 @@ Before installing, ensure you have the following installed on your system:
 - **Node.js**: >= 18.x (for asset compilation, optional)
 - **Web Server**: Apache or Nginx (or use Laravel's built-in server for development)
 
-## 🔧 Installation
+##  Installation :
 
 ### Quick Installation (Recommended)
 
@@ -174,7 +174,7 @@ npm install
 npm run dev
 ```
 
-## 🚀 Running the Application
+##  Running the Application :
 
 ### Development Server
 
@@ -207,7 +207,7 @@ The system comes with pre-configured user accounts for testing:
 
 **⚠️ Important**: Change these passwords immediately in production!
 
-## 📱 Usage Guide
+##  Usage Guide :
 
 ### For Administrators
 
@@ -264,7 +264,7 @@ The system comes with pre-configured user accounts for testing:
 - Report incidents
 - View reservation history
 
-## 🗂️ Project Structure
+##  Project Structure :
 
 ```
 fre_project/
@@ -284,7 +284,7 @@ fre_project/
 └── storage/                  # Logs, cache, uploads
 ```
 
-## 🔒 Security Features
+##  Security Features :
 
 - CSRF protection on all forms
 - Password hashing with bcrypt
@@ -293,7 +293,7 @@ fre_project/
 - XSS protection via Blade templating
 - Session security with secure cookies
 
-## 🛠️ Troubleshooting
+##  Troubleshooting :
 
 ### Database Connection Issues
 
@@ -324,7 +324,7 @@ php artisan route:clear
 php artisan view:clear
 ```
 
-## 📊 Database Schema
+##  Database Schema :
 
 The system uses the following main tables:
 
@@ -342,7 +342,7 @@ The system uses the following main tables:
 - `incidents` - Issue reporting
 - `activity_logs` - Audit trail
 
-## 🔄 Maintenance
+##  Maintenance :
 
 ### Backup Database
 
@@ -364,7 +364,7 @@ php artisan migrate
 rm storage/logs/laravel-*.log
 ```
 
-## 📝 API Documentation
+##  API Documentation :
 
 The system currently uses web routes. For API development:
 
@@ -372,7 +372,7 @@ The system currently uses web routes. For API development:
 php artisan route:list  # View all available routes
 ```
 
-## 🤝 Contributing
+##  Contributing :
 
 1. Fork the repository
 2. Create a feature branch
@@ -380,18 +380,18 @@ php artisan route:list  # View all available routes
 4. Push to the branch
 5. Create a Pull Request
 
-## 📄 License
+##  License :
 
 This project is proprietary software. All rights reserved.
 
-## 🆘 Support
+##  Support :
 
 For issues or questions:
 - Check the troubleshooting section above
 - Review Laravel documentation: https://laravel.com/docs
 - Contact system administrator
 
-## 🎯 Roadmap
+##  Roadmap :
 
 Future enhancements planned:
 - REST API for external integrations
@@ -402,6 +402,12 @@ Future enhancements planned:
 - Advanced reporting with custom dashboards
 - Workflow automation engine
 
+
+##  Équipe de développement :
+Ce projet a été réalisé par :
+- **@najwadardour4-droid**
+- **@nisso08** 
+- **@soukaynabenouicha** 
 ---
 
 **Version**: 1.0.0  
