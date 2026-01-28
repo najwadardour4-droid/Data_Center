@@ -407,7 +407,8 @@ Future enhancements planned:
 Ce projet a été réalisé par :
 - **@najwadardour4-droid**
 - **@nisso08** 
-- **@soukaynabenouicha** 
+- **@soukaynabenouicha**
+- **Soumaya msikin**
 ---
 **Backend** : Laravel 11 (PHP)  
 **Frontend** : Blade Templates + Vanilla CSS + JavaScript / TypeScript  
